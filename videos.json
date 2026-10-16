@@ -1,0 +1,21 @@
+
+[
+  {"caminho": "videos_libras/casaSm_Prog001.mp4", "label": "CASA"},
+  {"caminho": "videos_libras/CASA.mp4", "label": "CASA"},
+  {"caminho": "videos_libras/CASA2.mp4", "label": "CASA"},
+  {"caminho": "videos_libras/Casa_Articulador1.mp4", "label": "CASA"},
+  {"caminho": "videos_libras/Casa_Articulador2.mp4", "label": "CASA"},
+  {"caminho": "videos_libras/Casa_Articulador3.mp4", "label": "CASA"},
+
+  {"caminho": "videos_libras/ferroSm_Prog001.mp4", "label": "FERRO"},
+  {"caminho": "videos_libras/FERRO.mp4", "label": "FERRO"},
+  {"caminho": "videos_libras/FERRO2.mp4", "label": "FERRO"},
+  {"caminho": "videos_libras/FERRO3.mp4", "label": "FERRO"},
+
+  {"caminho": "videos_libras/oiSm_Prog001.mp4", "label": "OI"},
+  {"caminho": "videos_libras/OI.mp4", "label": "OI"},
+  {"caminho": "videos_libras/OI2.mp4", "label": "OI"},
+  {"caminho": "videos_libras/Oi_Articulador1.mp4", "label": "OI"},
+  {"caminho": "videos_libras/Oi_Articulador2.mp4", "label": "OI"},
+  {"caminho": "videos_libras/Oi_Articulador3.mp4", "label": "OI"}
+]

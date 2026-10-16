@@ -1,0 +1,26 @@
+
+# Ambiente virtual Python
+.venv/
+venv/
+env/
+
+# Cache do Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Arquivos temporários
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Configurações locais
+.env
+
+# Arquivos grandes de treinamento
+videos_libras/
+dataset_libras.csv
+
+# Modelos treinados (opcional)
+# *.h5
+# *.keras
+# *.npy

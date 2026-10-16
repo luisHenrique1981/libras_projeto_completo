@@ -1,0 +1,11 @@
+{
+  "classes": [
+    "CASA",
+    "FERRO",
+    "OI"
+  ],
+  "amostras_treino": 174,
+  "amostras_teste": 67,
+  "acuracia_teste": 0.7164179086685181,
+  "observacao": "Métrica de quadros estáticos; não mede tradução de frases em Libras."
+}
